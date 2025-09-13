@@ -13,6 +13,7 @@ Please comment your feedback and support me by subscribing this channel.
 # My Tutorial Playlist
  
  - [Vue JS Crash Course](https://www.youtube.com/playlist?list=PLQcBFrxTul9Ls24SwiOrjrI5LLCd8P0oF)
+ - [Learn Typescript](https://www.youtube.com/playlist?list=PLQcBFrxTul9LwSC97Rj4ldpbeoNTb63Yz)
  - [Laravel 9](https://www.youtube.com/playlist?list=PLQcBFrxTul9LeJHTBpQHGNL8_IIzJzibN)
  - [Express Js](https://www.youtube.com/playlist?list=PLQcBFrxTul9K4vIWcWRSlzsUAEKB8aFXi)
  - [Node JS v16.*](https://www.youtube.com/playlist?list=PLQcBFrxTul9IUbE7GACJCQ8O5W0dgd-yA)
