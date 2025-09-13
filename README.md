@@ -12,13 +12,14 @@ Please comment your feedback and support me by subscribing this channel.
 
 # My Tutorial Playlist
  
+ - [Vue JS Crash Course](https://www.youtube.com/playlist?list=PLQcBFrxTul9Ls24SwiOrjrI5LLCd8P0oF)
  - [Laravel 9](https://www.youtube.com/playlist?list=PLQcBFrxTul9LeJHTBpQHGNL8_IIzJzibN)
  - [Express Js](https://www.youtube.com/playlist?list=PLQcBFrxTul9K4vIWcWRSlzsUAEKB8aFXi)
  - [Node JS v16.*](https://www.youtube.com/playlist?list=PLQcBFrxTul9IUbE7GACJCQ8O5W0dgd-yA)
  - [Laravel 9 New Features](https://www.youtube.com/playlist?list=PLQcBFrxTul9KXkw-wZFqOCFDj2B85WT2L)
  - [ES6-  Ecma Script](https://www.youtube.com/playlist?list=PLQcBFrxTul9L2GqfunTPcndQkNo_gxxJS)
  - [Angular 11,12](https://www.youtube.com/playlist?list=PLQcBFrxTul9LvdIeg3DcPfdRtL0AzM83B)
-  - [Laravel API](https://www.youtube.com/playlist?list=PLQcBFrxTul9LOWgLsszs83lGqBh3cP0Zn)
+ - [Laravel API](https://www.youtube.com/playlist?list=PLQcBFrxTul9LOWgLsszs83lGqBh3cP0Zn)
  - [Livewire Full Course](https://www.youtube.com/playlist?list=PLQcBFrxTul9I7NB2m3x9qoVkkp1ClASrf)
  - [Laravel 8](https://www.youtube.com/playlist?list=PLQcBFrxTul9I_sMobkwQ3Mus1-2Za2oSG)
  - [Laravel + Angular Full Stack with JWT Authentication](https://www.youtube.com/playlist?list=PLQcBFrxTul9KQFd-r0z0n5aYcuFA1zGxH)
